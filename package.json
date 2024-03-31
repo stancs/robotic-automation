@@ -1,0 +1,14 @@
+{
+  "name": "thoughtful-ai",
+  "version": "0.0.1",
+  "description": "sort program",
+  "main": "sorting.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Stan Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
